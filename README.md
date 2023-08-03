@@ -12,8 +12,8 @@ Linguas
 Contatos:
 
 <a href="https://www.instagram.com/gustavo_dagostin/?next=%2F" target="_blank"><img loading="lazy"
-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/GmailD14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Estudo no Colégio Satc de Criciúma e estou na segunda fase do curso técnico de informática. 
+Estudo no Colégio Satc de Criciúma e estou na segunda fase do curso técnico de informática
 
