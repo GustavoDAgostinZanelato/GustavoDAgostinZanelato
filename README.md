@@ -2,9 +2,11 @@
 <div><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDAgostinZanelato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias que Estou Aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" height="35"/>
 
 ## Línguas que Estudo
 
@@ -17,5 +19,4 @@
 <a href="https://www.instagram.com/gustavo_dagostin/?next=%2F" target="_blank"><img loading="lazy" width="90" height="25"
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a> 
 
-Estudo no Colégio Satc de Criciúma e estou na segunda fase do curso técnico de informática
 
