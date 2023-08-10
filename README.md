@@ -2,7 +2,7 @@
 <div><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDAgostinZanelato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Ferramentas e Tecnologias que Estou Aprendendo
+## Ferramentas e Tecnologias que estou Aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
