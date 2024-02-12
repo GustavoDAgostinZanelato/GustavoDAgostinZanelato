@@ -10,7 +10,7 @@
 
 ## Línguas que Estudo
 
-<img  src="https://seeklogo.com/images/I/italy_flag-logo-66B831B5DB-seeklogo.com.png" width="35" height="25"/> <img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/> 
+<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="25"/>
 <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
 
