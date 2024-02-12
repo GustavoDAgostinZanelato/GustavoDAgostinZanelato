@@ -1,8 +1,11 @@
 ## Olá, me chamo Gustavo D'Agostin 👋
-<div><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDAgostinZanelato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+  <a href="https://github.com/GustavoDAgostinZanelato">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDAgostinZanelato&layout=compact&theme=dracula&show_icons=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDAgostinZanelato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Ferramentas e Tecnologias que estou Aprendendo
+## Ferramentas e Tecnologias que estou Estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
@@ -10,9 +13,7 @@
 
 ## Línguas que Estudo
 
-<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="25"/>
-<img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
+<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/> <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
 
 ## Entre em Contato
 <a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
