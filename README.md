@@ -21,12 +21,17 @@
 
 ## Línguas que Estudo
 
-<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="37" height="40"/>⠀
-<img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="47" height="37"/>
+• Inglês Avançado <br/>
+• Francês Básico
 
 ## Entre em Contato
-<a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>⠀
-<a href="https://www.instagram.com/gustavo_dagostin/?next=%2F" target="_blank"><img loading="lazy" width="90" height="25"
-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a 
+  href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a 
+  href="https://www.linkedin.com/in/gustavo-dagostin-zanelato-79854131a/" target="_blank"><img loading="lazy" 
+  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+  target="_blank">
+</a>  
 
 
