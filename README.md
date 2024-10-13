@@ -21,7 +21,8 @@
 
 ## Línguas que Estudo
 
-<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/>⠀<img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
+<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="45" height="35"/>⠀
+<img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="47" height="37"/>
 
 ## Entre em Contato
 <a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>⠀
