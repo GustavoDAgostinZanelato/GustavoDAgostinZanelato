@@ -7,9 +7,10 @@
 
 ## Ferramentas e Tecnologias que estou Estudando
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>⠀<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>⠀<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>
-⠀<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" height="35"/>
-⠀<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>⠀
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35"/>⠀
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="35" height="35"/>⠀
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="35"/>
 
 ## Línguas que Estudo
 
