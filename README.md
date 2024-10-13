@@ -21,7 +21,7 @@
 
 ## Línguas que Estudo
 
-<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="45" height="35"/>⠀
+<img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="42" height="35"/>⠀
 <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="47" height="37"/>
 
 ## Entre em Contato
