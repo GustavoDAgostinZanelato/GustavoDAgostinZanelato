@@ -1,4 +1,4 @@
-## Olá DEV, me chamo Gustavo D'Agostin 👋
+## Fala DEV, me chamo Gustavo D'Agostin 👋
 
 Futuro Engenheiro de Software (UniSatc) <br />
 
