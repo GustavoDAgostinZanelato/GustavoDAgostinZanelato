@@ -1,6 +1,7 @@
-## Olá, me chamo Gustavo D'Agostin 👋
+## Olá DEV, me chamo Gustavo D'Agostin 👋
 
-Futuro Engenheiro de Software (UniSatc)
+Futuro Engenheiro de Software (UniSatc) <br />
+
 <div>
   <a href="https://github.com/GustavoDAgostinZanelato">
   <img 
@@ -13,7 +14,7 @@ Futuro Engenheiro de Software (UniSatc)
   />
 </div>
 
-## Ferramentas e Tecnologias que estou Estudando
+## Estudando...
 
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>⠀
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45"/>⠀
@@ -22,10 +23,10 @@ Futuro Engenheiro de Software (UniSatc)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45"/>⠀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>⠀
 
-## Línguas que Estudo
+## Línguas
 
-• Inglês Avançado <br/>
-• Francês Básico
+• Inglês (Avançado) <br/>
+• Francês (Básico)
 
 ## Entre em Contato
 <a 
