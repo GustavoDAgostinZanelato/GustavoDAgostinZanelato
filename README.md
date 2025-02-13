@@ -1,6 +1,6 @@
 ## Fala DEV, me chamo Gustavo D'Agostin 👋
 
-Futuro Engenheiro de Software (UniSatc) <br />
+Cursando Engenheira de Software (UniSatc) <br />
 
 <div>
   <a href="https://github.com/GustavoDAgostinZanelato">
@@ -25,8 +25,8 @@ Futuro Engenheiro de Software (UniSatc) <br />
 
 ## Línguas
 
-• Inglês (Avançado) <br/>
-• Francês (Básico)
+• <b> Inglês </b> Avançado (C1, EfSet Certificate) <br/>
+• <b> Francês </b> Básico
 
 ## Entre em Contato
 <a 
