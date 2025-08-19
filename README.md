@@ -1,6 +1,6 @@
 ## Fala DEV, me chamo Gustavo D'Agostin 👋
 
-Cursando Engenheira de Software (UniSatc) <br />
+Cursando Engenharia de Software (UniSatc) <br />
 
 <div>
   <a href="https://github.com/GustavoDAgostinZanelato">
