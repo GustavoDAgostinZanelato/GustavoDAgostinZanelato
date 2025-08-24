@@ -19,7 +19,8 @@ Cursando Engenharia de Software (UniSatc) <br />
 -   Python
 -   Análise de Dados
 -   Inteligência Artificial
-
+-   Azure devops
+  
 ## Línguas
 
 • <b> Inglês </b> Avançado (C1, EfSet Certificate) <br/>
